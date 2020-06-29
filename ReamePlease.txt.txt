@@ -1,0 +1,6 @@
+I have created a tableau project from te dataset got from kaggle
+TOp n and all
+From it I plot the graph and using the tableau and then made dashboard and then
+using the link tag i pulbish on tableau server and 
+
+
